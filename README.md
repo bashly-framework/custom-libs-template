@@ -1,4 +1,4 @@
-# Bashly Custom Library Template
+# Bashly Custom Libraries Template
 
 A template repository for building and sharing custom
 [Bashly](https://bashly.dev) libraries.
