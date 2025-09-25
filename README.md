@@ -16,6 +16,8 @@ A template repository for building and sharing custom
 >    with your own GitHub username/repo:  
 >    **github:YOUR_USERNAME/YOUR_REPO**
 >
+> Documentation: https://bashly.dev/advanced/lib-source/
+>
 > Delete this section when you’re done.
 
 ---
