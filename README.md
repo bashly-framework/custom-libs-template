@@ -18,8 +18,9 @@ A template repository for building and sharing custom
 >
 > Documentation: https://bashly.dev/advanced/lib-source/
 >
-> If you create a public Custom Libraries source that could be useful to others,  
-> please share it in [Bashly Discussions → Show and tell](https://github.com/bashly-framework/bashly/discussions/categories/show-and-tell).
+> If you create a public Custom Libraries source that could be useful to others,
+> please share it in [Bashly Discussions → Show and tell](https://github.com/bashly-framework/bashly/discussions/categories/show-and-tell)
+> or add it to the [Bashly Wiki → Community Standard Libraries](https://github.com/bashly-framework/bashly/wiki/Community-Standard-Libraries).
 >
 > Delete this section when you’re done.
 
