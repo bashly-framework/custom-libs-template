@@ -1,7 +1,7 @@
 # Bashly Custom Library Template
 
 A template repository for building and sharing custom
-[Bashly] (https://bashly.dev) libraries.
+[Bashly](https://bashly.dev) libraries.
 
 ---
 
